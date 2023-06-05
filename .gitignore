@@ -1,0 +1,4 @@
+# Project exclude paths
+/koko-admin/target/
+/koko-blog/target/
+/koko-framework/target/
